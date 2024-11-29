@@ -53,7 +53,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prazzon&theme=dark&hide_border=true&border_radius=20&mode=weekly)](https://git.io/streak-stats)
 
-[![Prazzon's GitHub stats](https://github-readme-stats.vercel.app/api?username=prazzon&hide=contribs&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Prazzon's GitHub stats](https://github-readme-stats.vercel.app/api?username=prazzon&hide=contribs&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prazzon&layout=pie&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
