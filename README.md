@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
 - :telescope: I specialize in building Frontend and Backend applications.
 - 🔈 Fluent in English (speaking, reading, and writing).
